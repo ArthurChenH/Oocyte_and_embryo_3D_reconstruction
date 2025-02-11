@@ -1,9 +1,13 @@
 This code is used to do the 3-D reconstruction of Oocytes and embryos. 
+
 The origin data of oocytes and embryos should be selected and adjucted manually with the tools applied by the code. 
 
 The RoI images of rotated oocytes and embryos can be extrated using the kcf.cpp. 
+
 The extrated images can be processed by the edge_dectection_img.cpp to calculate the contours of target cells.
+
 Using the 2csv.cpp, all the contours could be collected into the demo.csv.
+
 We use matlab and point cloud library to reconstruct the 3D cloud point map of the target oocytes or embryos.
 
 OpenCV 3, 
