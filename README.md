@@ -6,4 +6,14 @@ The extrated images can be processed by the edge_dectection_img.cpp to calculate
 Using the 2csv.cpp, all the contours could be collected into the demo.csv.
 We use matlab and point cloud library to reconstruct the 3D cloud point map of the target oocytes or embryos.
 
-OpenCV 3, PCL 1.12.0, Matlab 2019 are necessary in this program.
+OpenCV 3, 
+PCL 1.12.0, 
+Matlab 2019, 
+Visual studio 2017
+were used in this program.
+
+This work related to the research: 
+
+Zhuo Chen, Chenhao Bai, Fengyu Liu, Qiang Huang, Toshio Fukuda, Tatsuo Arai, Xiaoming Liu, "Lab on an End: Micromanipulation Using Acoustohydrodynamic Pillar Array as End-Effector"
+
+Code authors: Zhuo Chen.
