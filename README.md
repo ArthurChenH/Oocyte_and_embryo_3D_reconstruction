@@ -14,6 +14,6 @@ were used in this program.
 
 This work related to the research: 
 
-Zhuo Chen, Chenhao Bai, Fengyu Liu, Qiang Huang, Toshio Fukuda, Tatsuo Arai, Xiaoming Liu, "Lab on an End: Micromanipulation Using Acoustohydrodynamic Pillar Array as End-Effector"
+_Zhuo Chen, Chenhao Bai, Fengyu Liu, Qiang Huang, Toshio Fukuda, Tatsuo Arai, Xiaoming Liu, "Lab on an End: Micromanipulation Using Acoustohydrodynamic Pillar Array as End-Effector"_
 
 Code authors: Zhuo Chen.
